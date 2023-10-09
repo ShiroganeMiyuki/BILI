@@ -3,8 +3,11 @@ gift: true #送出即将过期礼物。[true,false]
 s2c: true #银瓜子兑换为硬币。[true,false]
 autoBiCoin: 1 #月底自动使用B币卷。[{0,自己会使用},{1,给自己充电},{2,兑换成金瓜子}]
 platform: android #用户设备的标识[android,ios]
-uplist: 2323771
-uplist: 17367640
-uplist: 65890998
-uplist: 18343098
-uplist: 470962000
+upList:
+  - 2323771
+  - 17367640
+  - 17367640
+  - 65890998
+  - 18343098
+  - 470962000
+selectlike: 1
